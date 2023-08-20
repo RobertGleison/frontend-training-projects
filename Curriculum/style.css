@@ -12,7 +12,8 @@ h1 {
 }
 
 .title {
-    padding-left: 10px;;
+    padding-left: 10px;
+    ;
     background-color: #ccc;
     border-bottom: 2px solid #000;
 }
@@ -20,14 +21,34 @@ h1 {
 .info {
     text-align: center;
     margin-top: 5px;
-   
+
+}
+
+.workplace {
+    font-weight: bold;
+
 }
 
 .local {
-    font-weight: bold;
-    color: blue;
+    color: blue
 }
+
 h3 {
     font-weight: bold;
     font-size: 13px;
+}
+
+.skills{
+    list-style: none;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+.objective-info{
+    margin-top: 5px;
+}
+.topics {
+    list-style: none;
+    font-weight: bold;
 }
